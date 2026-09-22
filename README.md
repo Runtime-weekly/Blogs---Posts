@@ -5,6 +5,7 @@ Each issue will bring together what we covered, why it matters, original sources
 and links to the videos and practical guides.
 
 - [Read the archive](posts/README.md)
+- [Dream-RSI episode notes](notes/dream-rsi.md)
 - [Watch RUNTIME on YouTube](https://www.youtube.com/@runtime-weekly)
 - [Runnable tutorials and setup guides](https://github.com/Runtime-weekly/runtime-tutorials)
 
@@ -23,6 +24,8 @@ was available when they were written; corrections are dated in the article.
 Issues use `posts/YYYY-MM-DD-short-title.md` and appear in the archive with the
 newest first. The [issue template](templates/issue.md) shows the format.
 There are no published newsletter issues in this repository yet.
+Episode companions are listed separately so a technical note is not mistaken
+for a weekly roundup. The Dream-RSI note links directly to the runnable experiment.
 
 ## Corrections
 
