@@ -2,6 +2,8 @@
 
 Published October 14, 2026 · RUNTIME research companion
 
+[Watch the QwenGyre episode](https://youtu.be/ilFcJhIJ4DE).
+
 ## What the research addresses
 
 QwenGyre is Alibaba Token Hub's training framework for agents working on
@@ -54,8 +56,7 @@ not a QwenGyre reproduction or a training recipe.
 - [RUNTIME's local xLLM-Loop cache test](https://youtu.be/apypDwmOwyI): a separate inference experiment, not validation of QwenGyre.
 - [RUNTIME channel](https://www.youtube.com/@runtime-weekly).
 
-This page is the research companion. A direct episode link will be added when
-the video is publicly available. No training implementation or model weights
+This page is the research companion. No training implementation or model weights
 are included here, and linked research retains its original rights.
 
 For corrections, open an issue with the specific claim and a primary source.

@@ -9,5 +9,5 @@ or [try a tutorial](https://github.com/Runtime-weekly/runtime-tutorials).
 
 | Published | Topic | Read / watch |
 | --- | --- | --- |
-| October 14, 2026 | QwenGyre: learning from extended project work | [Research notes](../notes/qwengyre.md) |
+| October 14, 2026 | QwenGyre: learning from extended project work | [Research notes](../notes/qwengyre.md) · [Video](https://youtu.be/ilFcJhIJ4DE) |
 | September 21, 2026 | Dream-RSI: the local experiment and its limits | [Notes](../notes/dream-rsi.md) · [Video](https://youtu.be/opBzkTGTx8E) |
