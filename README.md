@@ -5,6 +5,7 @@ Each issue will bring together what we covered, why it matters, original sources
 and links to the videos and practical guides.
 
 - [Read the archive](posts/README.md)
+- [QwenGyre research notes](notes/qwengyre.md)
 - [Dream-RSI episode notes](notes/dream-rsi.md)
 - [Watch RUNTIME on YouTube](https://www.youtube.com/@runtime-weekly)
 - [Runnable tutorials and setup guides](https://github.com/Runtime-weekly/runtime-tutorials)
