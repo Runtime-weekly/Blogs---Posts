@@ -9,6 +9,6 @@ or [try a tutorial](https://github.com/Runtime-weekly/runtime-tutorials).
 
 | Published | Topic | Read / watch |
 | --- | --- | --- |
-| October 20, 2026 | Next-Concept Modeling: why generate text in levels? | [Research notes](../notes/next-concept-modeling.md) |
+| October 20, 2026 | Next-Concept Modeling: why generate text in levels? | [Research notes](../notes/next-concept-modeling.md) · [Video](https://youtu.be/GqVWpbqtjAI) |
 | October 14, 2026 | QwenGyre: learning from extended project work | [Research notes](../notes/qwengyre.md) · [Video](https://youtu.be/ilFcJhIJ4DE) |
 | September 21, 2026 | Dream-RSI: the local experiment and its limits | [Notes](../notes/dream-rsi.md) · [Video](https://youtu.be/opBzkTGTx8E) |

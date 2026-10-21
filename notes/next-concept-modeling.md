@@ -2,6 +2,8 @@
 
 Published October 20, 2026 · RUNTIME research companion
 
+[Watch the NCM episode](https://youtu.be/GqVWpbqtjAI).
+
 ## The idea
 
 Next-Concept Modeling (NCM) studies a different generation schedule: predict a hierarchy of learned codes, then decode it into text. Positions within a level are predicted together; later levels depend on earlier ones. That can shorten the sequence of dependent decisions without making every part of generation simultaneous.
