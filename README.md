@@ -5,6 +5,7 @@ Each issue will bring together what we covered, why it matters, original sources
 and links to the videos and practical guides.
 
 - [Read the archive](posts/README.md)
+- [LFM3 Omni local vision-and-voice test](notes/lfm3-omni-local-voice-test.md)
 - [Next-Concept Modeling research notes](notes/next-concept-modeling.md)
 - [QwenGyre research notes](notes/qwengyre.md)
 - [Dream-RSI episode notes](notes/dream-rsi.md)
