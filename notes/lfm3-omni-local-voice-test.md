@@ -2,6 +2,8 @@
 
 Published October 30, 2026 · RUNTIME
 
+[Watch the RUNTIME episode: LFM3 Omni — A Small AI That Sees, Hears and Talks Offline](https://youtu.be/uoVL3HP-Ky8)
+
 Can a small model look at a picture, hear a question and speak a useful answer without a cloud connection? We tested LiquidAI's **LFM3-Omni-2B** with recorded questions, a simple shelf illustration and one photograph. The video plays seven complete questions and the model's original spoken replies, keeping the measured waits between them.
 
 The model answered the spoken shelf questions correctly in these runs, rejected a nonexistent yellow box and followed a mid-sentence correction. It also produced a contradictory typed answer, and its transcription mode invented a word from silence. This is a small capability check, not an accuracy benchmark or a finished voice assistant.
